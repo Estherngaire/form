@@ -32,5 +32,8 @@ The form includes the following sections:
 
 **How to view\use the form**
 
-To view the form,open the index.html file in a browser,fill out the fields with the required information and submit it.
+To view the form,open the link below on a browser,fill out the fields with the required information and submit it.
+https://estherngaire.github.io/form/
+
+
 
